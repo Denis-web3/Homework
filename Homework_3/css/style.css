@@ -1,0 +1,28 @@
+body {
+	font-family: sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 15px;
+}
+.weekend {
+	color: red;
+}
+
+td,
+th,
+caption {
+	border: 1px solid #000;
+}
+
+caption {
+	border-bottom: none;
+	font-size: larger;
+	font-weight: bold;
+}
+
+th,
+td {
+	text-align: center;
+}
